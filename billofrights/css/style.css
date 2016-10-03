@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.am1{
+	margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+#steven{
+	width:100px;
+	height:100px;
+	position:absolute;
+	display: none;
+	top:10%;
+	left:68%;
+	z-index: 1;
+}
+
+#stevenimg{
+	max-width:100%;
+	max-height:100%;
+}
